@@ -1,1 +1,1 @@
-## TRABALHO 1 – INTRODUÇÃO LINGUAGEM HASKELL
+## Trabalho 2 - Introdução Haskell
